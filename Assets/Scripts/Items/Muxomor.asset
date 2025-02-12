@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40cebfa4c08d1f84b9d09b4a4f1a7934, type: 3}
+  m_Name: Muxomor
+  m_EditorClassIdentifier: 
+  itemName: Muxomor
+  itemPrefab: {fileID: 1950891734944309848, guid: 4c4f05390f5fca64d8e0cbd00d152a19, type: 3}
+  icon: {fileID: 21300000, guid: b3027e4479589b14ea017e8fa5ead635, type: 3}
+  itemType: 0
+  itemDescription: beeeee
+  weight: 1
+  healAmount: -5
+  timeOfLife: 100

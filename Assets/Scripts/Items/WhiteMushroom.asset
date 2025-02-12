@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40cebfa4c08d1f84b9d09b4a4f1a7934, type: 3}
+  m_Name: WhiteMushroom
+  m_EditorClassIdentifier: 
+  itemName: White mushroom
+  itemPrefab: {fileID: 1741186585682003213, guid: b83234134af91cb4fa6f0b522462e9cf, type: 3}
+  icon: {fileID: 21300000, guid: 0d14b3cab8b3e0d4fac56d80e260ba00, type: 3}
+  itemType: 0
+  itemDescription: grib
+  weight: 1
+  healAmount: 5
+  timeOfLife: 100

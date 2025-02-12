@@ -1,0 +1,10 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Forge : MonoBehaviour
+{
+    public ForgeScriptableObject forge;
+    public GameObject interfacePanel;
+
+}
